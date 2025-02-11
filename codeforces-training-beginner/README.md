@@ -12,3 +12,7 @@ This repository tracks my progress and practice in solving Codeforces problems.
 ### 🔗 Problem List:
 The complete problem list can be found in the following Codeforces blog:
 [Codeforces Training](https://codeforces.com/blog/entry/82143)
+
+
+### Skipped Problems - 
+- Problem 8, 9, 10, 11
